@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="Style.css" media="">
+    <title>Cadastro</title>
+</head>
+<body>
+    <div>
+        <h1 id="Titulo">Cadastro de Sobre Legue of Legends</h1>
+        <p id="Subtitulo">Complete suas informações Abaixo</p>
+        <br>
+    </div>
+    
+ <form>
+    <fieldset class="grupo">
+        <div>
+            <label form="Nome"><strong>Nome do Jogador</strong></label>
+            <input type="text" name="Nome" id="Nome" required>
+        </div>
+
+        <div>
+            <label form="Campeão"><strong>Campeão Favorito</strong></label>
+            <input type="text" name="Campeão" id="Campeão" required>
+        </div>
+    </fieldset>
+
+
+    <div class="campo">
+        <label form="Quanto Tempo">Quanto Tempo Você tem de <strong>Legue of Legends?</strong></label>
+        <label>
+            <input type="radio" name="devweb" value="frontend" checked>5 Anos
+        </label>
+        <label>
+            <input type="radio" name="radio" value="backend" >10 Anos
+        </label>
+        <label>
+            <input type="radio" name="devweb" value="fullstack"> Sou-Ancião
+        </label>
+    </div>
+
+    <div class="campo">
+        <label>Seu elo</label>
+        <select id="Seu elo">
+            <option selected disabled value="">Selecione</option>
+            <option>Ferro</option>
+            <option>Bronze</option>
+            <option>Prata</option>
+            <option>Ouro</option>
+            <option>Platina</option>
+            <option>Esmeralda</option>
+            <option>Diamante</option>
+            <option>Mestre</option>
+            <option>Grão-Mestre</option>
+        </select>
+    </div>
+
+    <fieldset>
+        <div id="check">
+            <label>Selecione Suas Lanes Favoritas:</label>
+            
+            <input type="checkbox" id="Lanes1" name="Lanes1" value="Mid">
+            <label for="Lanes1">Mid</label>
+            
+            <input type="checkbox" id="Lanes2" name="Lanes2" value="Top">
+            <label for="Lanes2">Top</label>
+            
+            <input type="checkbox" id="Lanes3" name="Lanes3" value="Jungle">
+            <label for="Lanes3">Jungle</label>
+            
+            <input type="checkbox" id="Lanes4" name="Lanes4" value="Adc">
+            <label for="Lanes4">Adc</label>
+            
+            <input type="checkbox" id="Lanes5" name="Lanes5" value="Sup">
+            <label for="Lanes5">Sup</label>
+
+
+        </div>
+    </fieldset>
+
+   <div>
+    <br>
+    <label>Conte Um Pouco da Sua Experiência Com Legue of Legends:</label>
+    <textarea rows="6" style="width: 26em;" id="Experiência" name="Experiência"></textarea>
+   </div>
+
+   <button class="botao" type="submit">Concluído</button>
+</form>
+</body>
+</html>

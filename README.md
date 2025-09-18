@@ -32,7 +32,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
  - **Repositório do Código:** [CriticalAxZ/ProjetoFormulario](https://github.com/CriticalAxZ/ProjetoFormulario)
 -----
 
-👨‍💻 Desenvolvido por **Pedro Leite**.
+👨‍💻 Desenvolvido por **CriticalAxZ**.
 
-[LinkedIn de Pedro Leite](https://www.linkedin.com/in/pedro-leite-42a47033a)
+[LinkedIn de CriticalAxZ](https://www.linkedin.com/in/pedro-leite-42a47033a)
 

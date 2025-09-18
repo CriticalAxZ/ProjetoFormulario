@@ -22,7 +22,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - **HTML5** – Estrutura do formulário.  
 - **CSS** – Estilização, cores e background personalizado.  
-- **JavaScript** – (Opcional) para validação dos campos e interatividade.  
 
 -----
 

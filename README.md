@@ -25,6 +25,14 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 -----
 
+## 📸 Demonstração  
+
+Aqui está uma prévia do site em funcionamento:  
+
+![Image](https://github.com/user-attachments/assets/37ca9dc6-4e8d-42ac-b494-be2a5f8493cc)
+
+-----
+
 ## 🔗 Links  
 
 - **Deploy do Projeto:** [Clique aqui para acessar o Formulário](https://criticalaxz.github.io/ProjetoFormulario) 
